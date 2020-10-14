@@ -1,2 +1,2 @@
 # Talks
-Notebooks for talks.
+Notebooks used in talks.
